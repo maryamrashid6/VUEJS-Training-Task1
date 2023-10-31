@@ -21,7 +21,9 @@ export default {
     }
     if(this.newVal.length){
       this.toDoList = [...this.toDoList, item]
-    }  
+    } 
+    
+    
     
    },
 
